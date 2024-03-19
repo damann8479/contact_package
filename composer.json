@@ -1,0 +1,19 @@
+{
+    "name": "bitfumes/contact",
+    "description": "This will send email",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "coder8479",
+            "email": "peter.kuehnel@mpknails.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitfumes\\Contact\\": "src/"
+        }
+    }
+}
