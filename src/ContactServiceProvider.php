@@ -1,6 +1,6 @@
 <?php
 
-namespace Bitfumes\Contact;
+namespace Damann8479\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,5 +1,5 @@
 {
-    "name": "bitfumes/contact",
+    "name": "damann8479/contact",
     "description": "This will send email",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Bitfumes\\Contact\\": "src/"
+            "Damann8479\\Contact\\": "src/"
         }
     }
 }

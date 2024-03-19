@@ -2,7 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use Bitfumes\Contact\Http\Controllers\ContactController;
+use Damann8479\Contact\Http\Controllers\ContactController;
 
 
 Route::get('contact', [ContactController::class, 'index'])->name('contact');

@@ -1,10 +1,10 @@
 <?php
 
-namespace Bitfumes\Contact\Http\Controllers;
+namespace Damann8479\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
-use Bitfumes\Contact\Models\Contact;
+use Damann8479\Contact\Models\Contact;
 
 class ContactController extends Controller
 {
